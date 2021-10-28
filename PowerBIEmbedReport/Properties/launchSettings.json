@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "PowerBIEmbedReport": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "AUTHORITY_URI": "https://login.microsoftonline.com/{0}/",
+        "POWERBI_APP_SECRET": "",
+        "MAIN_TENANT_ID": "",
+        "POWERBI_APP_ID": "",
+        "POWERBI_SCOPE": "https://analysis.windows.net/powerbi/api/.default",
+        "POWERBI_WORKSPACE_ID": "",
+        "POWERBI_API_URL": "https://api.powerbi.com/"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBIEmbedReport", "PowerBIEmbedReport\PowerBIEmbedReport.csproj", "{7FB2DEC8-7BBE-4787-9B8F-079BFB58EB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB2DEC8-7BBE-4787-9B8F-079BFB58EB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB2DEC8-7BBE-4787-9B8F-079BFB58EB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB2DEC8-7BBE-4787-9B8F-079BFB58EB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB2DEC8-7BBE-4787-9B8F-079BFB58EB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5028E275-3DCF-478C-839E-525063CDBD4B}
+	EndGlobalSection
+EndGlobal
